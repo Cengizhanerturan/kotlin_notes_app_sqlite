@@ -33,8 +33,3 @@ Home Screen | Add Note PopUp | Date Picker UI
 Note Detail Screen | Edit Note Screen | Note Not Added UI
 ------------- | ------------- | -------------
 <a><img src="https://github.com/cengizhanerturan/kotlin_notes_app_sqlite/blob/main/app_images/note_detail_screen_ss.png" width="200" height="400"/></a> | <a><img src="https://github.com/cengizhanerturan/kotlin_notes_app_sqlite/blob/main/app_images/note_edit.png" width="200" height="400" /></a> | <a><img src="https://github.com/cengizhanerturan/kotlin_notes_app_sqlite/blob/main/app_images/note_not_added_screen.png" width="200" height="400" /></a>
-
-
-
-
-
